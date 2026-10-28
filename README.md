@@ -52,7 +52,7 @@ Soy **desarrollador de software** y estudiante avanzado de **Ingeniería Inform�
 
 **Herramientas de equipo**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linear,vscode&perline=4" alt="Herramientas" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Herramientas" />
 </p>
 
 ## 💼 Experiencia
@@ -68,15 +68,6 @@ Soy **desarrollador de software** y estudiante avanzado de **Ingeniería Inform�
 - **Inglés**, Laboratorio de Idiomas, UNMdP (cursando 4.º nivel, B1+)
 
 ## 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignacantando&show_icons=true&hide_border=true&theme=transparent&title_color=5fd08f&icon_color=5fd08f&text_color=8b949e&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignacantando&layout=compact&hide_border=true&theme=transparent&title_color=5fd08f&text_color=8b949e" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ignacantando&hide_border=true&background=00000000&ring=5fd08f&fire=5fd08f&currStreakLabel=5fd08f&sideLabels=8b949e&currStreakNum=8b949e&sideNums=8b949e&dates=8b949e" alt="GitHub streak" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ignacantando/ignacantando/output/github-snake-dark.svg" />
