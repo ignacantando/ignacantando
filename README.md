@@ -70,7 +70,7 @@ Soy **desarrollador de software** y estudiante de **Ingeniería Informática en 
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fignacantando%2Fignacantando%2Frefs%2Fheads%2Foutput%2Fcontributions.json&style=for-the-badge&cacheSeconds=300&v=3" alt="Contribuciones en el año" />
+  <img src="https://raw.githubusercontent.com/ignacantando/ignacantando/refs/heads/output/contributions.svg" alt="Contribuciones en el año" />
 </p>
 
 <picture>
