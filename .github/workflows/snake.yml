@@ -27,7 +27,7 @@ jobs:
         run: |
           total=$(gh api graphql -f query='query($login:String!){ user(login:$login){ contributionsCollection { contributionCalendar { totalContributions } } } }' \
             -f login="${{ github.repository_owner }}" --jq '.data.user.contributionsCollection.contributionCalendar.totalContributions')
-          echo "{\"schemaVersion\":1,\"label\":\"contribuciones en el último año\",\"message\":\"$total\",\"color\":\"1f6f4a\",\"labelColor\":\"0d1117\"}" > dist/contributions.json
+          echo "{\"schemaVersion\":1,\"label\":\"contribuciones en el último año\",\"message\":\"$total\",\"color\":\"1f6f4a\",\"labelColor\":\"0d1117\"}" | sudo tee dist/contributions.json
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
