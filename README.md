@@ -70,9 +70,9 @@ Soy **desarrollador de software** y estudiante avanzado de **Ingeniería Inform�
 ## 📊 Actividad en GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ignacantando/ignacantando/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ignacantando/ignacantando/output/github-snake.svg" />
-  <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/ignacantando/ignacantando/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ignacantando/ignacantando/refs/heads/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ignacantando/ignacantando/refs/heads/output/github-snake.svg" />
+  <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/ignacantando/ignacantando/refs/heads/output/github-snake.svg" />
 </picture>
 
 <p align="center">
