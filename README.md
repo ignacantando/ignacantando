@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ignaciocantandoflego/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ignacio-cantando-flego-8ba84a127/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ignacanflego@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Mar%20del%20Plata%2C%20AR-1f6f4a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Mar del Plata, Argentina" />
 </p>
@@ -64,7 +64,7 @@ Soy **desarrollador de software** y estudiante de **Ingeniería Informática en 
 
 ## 🎓 Formación
 
-- **Ingeniería Informática**, Facultad de Ingeniería, UNMdP: materias aprobadas, solo resta el proyecto final
+- **Ingeniería Informática**, Facultad de Ingeniería, UNMdP
 - **Inglés**, Laboratorio de Idiomas, UNMdP (cursando 4.º nivel, B1+)
 
 ## 📊 Actividad en GitHub
