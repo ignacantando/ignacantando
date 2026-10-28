@@ -19,7 +19,7 @@
 
 ## 👋 Sobre mí
 
-Soy **desarrollador de software** y estudiante avanzado de **Ingeniería Informática en la UNMdP** (96% de la carrera). Trabajo en desarrollo **web, backend y aplicaciones móviles**, desde el relevamiento con el cliente hasta el deploy.
+Soy **desarrollador de software** y estudiante de **Ingeniería Informática en la UNMdP**: **solo me queda el proyecto final para recibirme** 🎓. Trabajo en desarrollo **web, backend y aplicaciones móviles**, desde el relevamiento con el cliente hasta el deploy.
 
 - 💼 Desde dic. 2024 desarrollo en **Te Chiflo Solutions**, en proyectos para distintas empresas, entre ellas **McCain**
 - 🔧 Me muevo cómodo en **Node.js, NestJS, Next.js, PHP y React Native**, con **Supabase/SQL** y **Azure**
@@ -64,10 +64,14 @@ Soy **desarrollador de software** y estudiante avanzado de **Ingeniería Inform�
 
 ## 🎓 Formación
 
-- **Ingeniería Informática**, Facultad de Ingeniería, UNMdP (96% de avance)
+- **Ingeniería Informática**, Facultad de Ingeniería, UNMdP: materias aprobadas, solo resta el proyecto final
 - **Inglés**, Laboratorio de Idiomas, UNMdP (cursando 4.º nivel, B1+)
 
 ## 📊 Actividad en GitHub
+
+<p align="center">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fignacantando%2Fignacantando%2Frefs%2Fheads%2Foutput%2Fcontributions.json&style=for-the-badge" alt="Contribuciones en el último año" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ignacantando/ignacantando/refs/heads/output/github-snake-dark.svg" />
